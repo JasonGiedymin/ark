@@ -20,7 +20,6 @@
 
 
 package "unzip"
-package "libtool"
 package "rsync"
 package "autoconf"
 package "make"
